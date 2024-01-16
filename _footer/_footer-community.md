@@ -1,0 +1,5 @@
+- [Forum](https://forum.buspirate.com)
+- [Blog](https://buspirate.com/) and mailing list
+- [Mastodon](https://mastodon.social/@buspirate)
+- [BlueSky](https://bsky.app/profile/buspirate.bsky.social)
+- [Twitter](https://twitter.com/dangerousproto)
