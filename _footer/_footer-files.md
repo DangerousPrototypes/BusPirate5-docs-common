@@ -1,2 +1,2 @@
-- [Bus Pirate 5 hardware repository](https://github.com/DangerousPrototypes/BusPirate5-hardware)
-- [Bus Pirate 5 firmware repository](https://github.com/DangerousPrototypes/BusPirate5-firmware)
+- [Bus Pirate 5 Hardware repo](https://github.com/DangerousPrototypes/BusPirate5-hardware)
+- [Bus Pirate 5 Firmware repo](https://github.com/DangerousPrototypes/BusPirate5-firmware)
