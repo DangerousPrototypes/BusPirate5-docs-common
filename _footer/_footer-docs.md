@@ -4,5 +4,5 @@ Bus Pirate 5 documentation is broken into [hardware](https://hardware.buspirate.
 - [Injection molded case](https://hardware.buspirate.com/enclosure/injection-molded-shell)
 - [Hardware users guide](https://firmware.buspirate.com/overview/hardware)
 - [Getting started](https://firmware.buspirate.com/tutorial-basics/quick-setup) and [Command reference](https://firmware.buspirate.com/command-reference/commands)
-- [Firmware development](https://hardware.buspirate.com/development/code) and [translation](https://hardware.buspirate.com/development/translation)
+- [Firmware development](https://firmware.buspirate.com/development/code) and [translation](https://firmware.buspirate.com/development/translation)
 - [Manufacturing resources](https://hardware.buspirate.com/category/manufacturing)
