@@ -1,4 +1,7 @@
-Bus Pirate 5 documentation is broken into [hardware](https://hardware.buspirate.com) and [firmware](https://firmware.buspirate.com) sections. Here's some other fun stuff you might enjoy.
+[See the latest Bus Pirate documentation](https://docs.buspirate.com). **This site is no longer updated.**
+
+Here's some other fun stuff you might enjoy.
+
 - [Component selection and sourcing](https://hardware.buspirate.com/components/introduction)
 - [Cables](https://hardware.buspirate.com/cables/) and [Milled breadboard pins](https://hardware.buspirate.com/cables/milled-pins)
 - [Injection molded case](https://hardware.buspirate.com/enclosure/injection-molded-shell)
